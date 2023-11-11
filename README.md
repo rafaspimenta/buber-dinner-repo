@@ -39,3 +39,5 @@
 # Credits
 
 # License
+
+This project is licensed under the terms of the [MIT](https://github.com/rafaspimenta/buber-dinner-repo/blob/master/LICENSE) license.
