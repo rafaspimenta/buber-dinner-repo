@@ -19,7 +19,7 @@
 
 # Overview
 
-  It'll be a repo where I'll build a REST API following Clean Architecture and Domain Driven Design (DDD) principles completely from scratch.
+  It's a repo where I'll build a REST API following Clean Architecture and Domain Driven Design (DDD) principles completely from scratch.
 
 # Solutions Architecture
   
