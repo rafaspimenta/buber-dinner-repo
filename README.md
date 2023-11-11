@@ -19,7 +19,7 @@
 
 # Overview
 
-  It's a repo where I'll build a REST API following Clean Architecture and Domain Driven Design (DDD) principles completely from scratch.
+  It's a repo where I'll build a Restaurant Reservation named "Pimenta Dinner" using a REST API following Clean Architecture and Domain Driven Design (DDD) principles completely from scratch.
   <div align="center" >
   <img width="600" height="300" src="https://github.com/rafaspimenta/pimenta-dinner-repo/assets/19673696/560c7e51-aa33-4c87-b1d4-4e4b5aa23cd7">
   </div>
