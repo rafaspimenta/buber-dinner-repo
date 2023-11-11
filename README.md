@@ -1,4 +1,4 @@
-# ⭐ Buber Dinner ⭐
+# ⭐ Pimenta Dinner ⭐
 
  [![GitHub Stars](https://img.shields.io/github/stars/rafaspimenta)](https://github.com/rafaspimenta) 
  [![GitHub license](https://img.shields.io/github/license/rafaspimenta/buber-dinner-repo)](https://github.com/rafaspimenta/blob/main/LICENSE)
